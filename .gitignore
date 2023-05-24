@@ -1,6 +1,9 @@
 .idea
+
 target
 out
 sounds
 images
+
+*.iml
 game.properties
